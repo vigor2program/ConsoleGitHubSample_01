@@ -1,0 +1,1 @@
+C:\GitAdventures\GitHubSamples\ConsoleGitHubSample_01\ConsoleGitHubSample_01\bin\Debug\ConsoleGitHubSample_01.exe.config
